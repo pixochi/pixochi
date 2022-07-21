@@ -1,4 +1,8 @@
-### Hi there 👋
+### Welcome! 👋
+
+#### You can find more about my repositories and myself on:
+- 📚 [Medium](https://jakub-kozak.medium.com/)
+- 🌐 [LinkedIn](https://www.linkedin.com/in/jakub-kozakcs/)
 
 <!--
 **pixochi/pixochi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
