@@ -4,6 +4,11 @@
 - 📚 [Medium](https://jakub-kozak.medium.com/)
 - 🌐 [LinkedIn](https://www.linkedin.com/in/jakub-kozakcs/)
 
+
+
+![GitHub stars](https://img.shields.io/github/stars/pixochi?style=for-the-badge&logo=github)
+
+
 <!--
 **pixochi/pixochi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
