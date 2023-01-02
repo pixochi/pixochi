@@ -6,7 +6,8 @@
 
 
 
-![GitHub stars](https://img.shields.io/github/stars/pixochi?style=for-the-badge&logo=github)
+![GitHub stars](https://img.shields.io/github/stars/pixochi?style=flat&logo=github)
+![GitHub followers](https://img.shields.io/github/followers/pixochi?style=social&label=Follow)
 
 
 <!--
